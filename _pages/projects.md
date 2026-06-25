@@ -4,6 +4,7 @@ title: twins
 permalink: /projects/
 description: A growing collection of digital twin projects.
 nav: true
+nav_order: 3
 display_categories: [academic, industrial, environmental, medical, others]
 horizontal: false
 ---
