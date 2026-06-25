@@ -22,10 +22,10 @@ For more details, please consult my [homepage](http://masch.perso.math.cnrs.fr) 
 
 Publications related to the subject of Digital Twins can be found on the  [publications](/publications/) page. My [previous book](https://epubs.siam.org/doi/book/10.1137/1.9781611974546) remains a good source for a detailed presentation of Data Assimilation.
 
-I provide [consulting](/consulting/)  and [training](/training/)  for Digital Twins and their implementations. Please see the dedicated pages.
+I provide consulting  and [training](/teaching/)  for all aspects of Digital Twins and their implementations. Please see the dedicated pages.
 
-In the [twins](/twins/) section, a number of models are show-cased and an updated list, with links, is provided.
+In the [twins](/projects/) section, a number of models are show-cased and an updated list of twins, with links, is provided.
 
 Please consult regularly the [blog](/blog/) section, where you will find updates, timely and additional material, as well as invited posts written by eminent colleagues.
 
-Links to my social media connections are available in the top- and bottom of page menus. 
+Links to my social media connections are available in the page-bottom menu. 
