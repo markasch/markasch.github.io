@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://markasch.github.io/al-folio/sitemap.xml
+Sitemap: https://markasch.github.io/sitemap.xml
