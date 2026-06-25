@@ -184,9 +184,9 @@ collections:
     output: true
   teachings:
     output: true
-  codes:
-    output: true
-    permalink: /codes/:path/
+#  codes:
+#    output: true
+#    permalink: /codes/:path/
 
 
 # -----------------------------------------------------------------------------
