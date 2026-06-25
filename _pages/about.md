@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 This is my homepage and the companion website for **A Toolbox for Digital Twins: from Model-based to Data-driven. SIAM (2022)**. This  [book](https://epubs.siam.org/doi/book/10.1137/1.9781611976977) provides a unique resource for all the modeling and computational tools needed to formulate, test and deploy Digital Twins. All the [codes](/codes/) from the book examples are available. They can also be obtained directly from my [GitHub repository](https://github.com/markasch/DT-tbx-examples/). Typos and other errors are inevitable, so please help by filling in the [Errata/Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfV-DzUmItIpC3aV-aMBItX3-TmY3TWVoqh1h3ZtOVTk9EHaA/viewform) form. Your feedback is precious. The current list of errata can be found [here](https://docs.google.com/spreadsheets/d/1xkTEB9Z5PYD6KKzJZFU5SxiV9u2NQ6O9vhZXtPd_wSY/edit?usp=sharing).
 
-Here is a preview of the book's [cover](/assets/pdf/MN06_ASCH_COVER_B_V6.pdf).
+Here is a preview of the book's [cover](/assets/pdf/Asch_DT-tbx-SIAM.pdf).
 
 My career has covered a lot of ground: from academia to industry, passing through governmental, European and international institutions. Learning from all of these, has provided a broad persepctive of how and what mathematics can propose to society.
 For more details, please consult my [homepage](http://masch.perso.math.cnrs.fr) and recent [CV](/assets/pdf/Asch_CV_2024.pdf). 

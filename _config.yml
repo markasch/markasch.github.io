@@ -182,8 +182,13 @@ collections:
     output: true
   projects:
     output: true
+    permalink: /projects/:path/
   teachings:
     output: true
+  codes:
+    output: true
+    permalink: /codes/:path/
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
