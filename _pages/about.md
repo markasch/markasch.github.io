@@ -24,8 +24,6 @@ Publications related to the subject of Digital Twins can be found on the  [publi
 
 I provide consulting  and [training](/teaching/)  for all aspects of Digital Twins and their implementations. Please see the dedicated pages.
 
-In the [twins](/projects/) section, a number of models are show-cased and an updated list of twins, with links, is provided.
-
 Please consult regularly the [blog](/blog/) section, where you will find updates, timely and additional material, as well as invited posts written by eminent colleagues.
 
 Links to my social media connections are available in the page-bottom menu. 
