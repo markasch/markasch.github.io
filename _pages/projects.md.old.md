@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of projects and digital twins.
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [academic, industrial, environmental]
+display_categories: [work, play]
 horizontal: false
 ---
 
