@@ -29,7 +29,7 @@ The twin will provide a complete emission-transmission-reception chain of the sp
 We are currently implementing a comparison between:
 
 - a classical adjoint approach, based on variational calculus, as described in {% cite Asch2016 %}
-- a physics-constrained neural network approach, as described in this [blog post](/blog/2022-01-08-nn4pde/) and in the [Digtal Twin book](https://epubs.siam.org/doi/book/10.1137/1.9781611976977).
+- a physics-constrained neural network approach, as described in this [blog post](/blog/2022-01-08-nn4pde) and in the [Digtal Twin book](https://epubs.siam.org/doi/book/10.1137/1.9781611976977).
 
 
 References
