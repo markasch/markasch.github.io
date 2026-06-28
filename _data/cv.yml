@@ -4,7 +4,7 @@ cv:
   email: mark.asch@u-picardie.fr
   location: Paris, FRANCE
   image: ""
-  summary: An applied mathematician with industrila experience.
+  summary: An applied mathematician with governement and industrial experience.
   social_networks:
     - network: GitHub
       username: markasch
@@ -42,10 +42,7 @@ cv:
         location: Paris, France
         start_date: 2017
         end_date: 2019
-        summary: Advisor to CTO on, mathematics and data science
-        highlights:
-          - Relativity
-          - Description 2.
+        summary: Advisor to the CTO on mathematics and data science
 
       - company: Ministry of Higher Education and Research
         position: Scientific officer
@@ -88,8 +85,8 @@ cv:
         summary: "Fluent"
 
     Projects:
-      - name: NUMPEX
-        summary: Exacsale, and beyond, computing
+      - name: NUMPEX https://numpex.org/ 
+        summary: Exacsale computing, and beyond.
         highlights:
           - Workflows
           - Algorithms
