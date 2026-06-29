@@ -1,26 +1,26 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
+title: Basic and Advanced Machine Learning and Data Assimilation
+description: TBC
+instructor: Prof. Mark Asch
 year: 2023
-term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+term: 
+location: Caraga State University, Philippines.
+time: 
+course_id: 
 schedule:
   - week: 1
-    date: Sept 5
+    date: 
     topic: Course Introduction
     description: Overview of machine learning, course structure, and expectations.
     materials:
       - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
+        url: https://sites.google.com/view/csu2023/
       - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+        url: https://github.com/markasch/CSU-IMU-2023/blob/main/01basic-course
 
   - week: 2
-    date: Sept 12
+    date: 
     topic: Linear Regression
     description: Introduction to linear regression, gradient descent, and model evaluation.
     materials:
@@ -30,7 +30,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 3
-    date: Sept 19
+    date: 
     topic: Classification
     description: Logistic regression, decision boundaries, and multi-class classification.
     materials:
@@ -40,7 +40,7 @@ schedule:
         url: https://github.com/
 
   - week: 4
-    date: Sept 26
+    date: 
     topic: Decision Trees and Random Forests
     description: Tree-based methods, ensemble learning, and feature importance.
     materials:
@@ -50,7 +50,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 5
-    date: Oct 3
+    date: 
     topic: Support Vector Machines
     description: Margin maximization, kernel methods, and support vectors.
     materials:
@@ -60,12 +60,12 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 6
-    date: Oct 10
+    date: 
     topic: Midterm Exam
     description: Covers weeks 1-5.
 
   - week: 7
-    date: Oct 17
+    date: 
     topic: Neural Networks Fundamentals
     description: Perceptrons, multilayer networks, and backpropagation.
     materials:
@@ -75,7 +75,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 8
-    date: Oct 24
+    date: 
     topic: Deep Learning
     description: Convolutional neural networks, recurrent neural networks, and applications.
     materials:

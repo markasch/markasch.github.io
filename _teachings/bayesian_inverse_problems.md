@@ -7,7 +7,7 @@ year: 2025
 term: Autumn
 location: INRIA, Pau
 schedule:
-  - day: 1
+  - week: 1
     date: 
     topic: Introduction to inverse problems and data assimilation
     description: Overview of the key concepts.
@@ -19,7 +19,7 @@ schedule:
       - name: Assignment 1
         url: /assets/pdf/example_pdf.pdf
 
-  - day: 2
+  - weeek: 2
     date: 
     topic: Bayesian inverse problems
     description: Formulation and solution of stochastic inverse problems.
@@ -29,7 +29,7 @@ schedule:
       - name: Assignment 2
         url: https://github.com/markasch/MAKUTU-BIP/blob/main/02practicals/21_BIP_prac.pdf
 
-  - day: 3
+  - week: 3
     date: 
     topic: Posterior estimation methods
     description: Techniques for performing estimation of the Bayesian posterior.
