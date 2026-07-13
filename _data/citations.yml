@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,7 +94,7 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 819
+    citations: 822
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
@@ -102,7 +102,7 @@ papers:
     title: 'A toolbox for digital twins: from model-based to data-driven'
     year: '2022'
   bRc87BMAAAAJ:JH5k92_tO-AC:
-    citations: 26
+    citations: 27
     title: A hybrid modelling approach coupling physics-based simulation and deep learning for battery electrode manufacturing simulations
     year: '2025'
   bRc87BMAAAAJ:J_g5lzvAfSwC:
@@ -142,7 +142,7 @@ papers:
     title: 'Particle velocity in geoacoustics: A performance study based on ensemble adjoint inversion'
     year: Unknown Year
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 851
+    citations: 854
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
@@ -206,7 +206,7 @@ papers:
     title: Open access dataset of marine mammal transient studies and end-to-end CNN classification
     year: '2020'
   bRc87BMAAAAJ:Vno172sVVMwC:
-    citations: 5
+    citations: 6
     title: 3D diarization of a sperm whale click cocktail party by an ultra high sampling rate portable hydrophone array for assessing individual cetacean growth curves
     year: '2020'
   bRc87BMAAAAJ:W7OEmFMy1HYC:
@@ -274,7 +274,7 @@ papers:
     title: Alessandrini, Giovanni, 207 Ammari, Habib, 368
     year: '2005'
   bRc87BMAAAAJ:aEW5N-EHWIMC:
-    citations: 5
+    citations: 6
     title: High-frequency near-field Physeter macrocephalus monitoring by stereo-autoencoder and 3d model of sonar organ
     year: '2019'
   bRc87BMAAAAJ:aqlVkmm33-oC:
@@ -306,7 +306,7 @@ papers:
     title: Penalization method for WAPE adjoint-based inversion of an acoustic field
     year: '2004'
   bRc87BMAAAAJ:g8uWPOAv7ggC:
-    citations: 261
+    citations: 262
     title: 'Big data and extreme-scale computing: Pathways to convergence-toward a shaping strategy for a future software and data ecosystem for scientific inquiry'
     year: '2018'
   bRc87BMAAAAJ:h168fVGZblEC:
@@ -378,7 +378,7 @@ papers:
     title: Derivation of the adjoint of a wide angle parabolic equation for acoustic inversion
     year: '2004'
   bRc87BMAAAAJ:tz746QTLzJkC:
-    citations: 71
+    citations: 72
     title: 'An axisymmetric time-domain spectral-element method for full-wave simulations: Application to ocean acoustics'
     year: '2016'
   bRc87BMAAAAJ:u-x6o8ySG0sC:
