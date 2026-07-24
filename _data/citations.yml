@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-24'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Using Reduced Meshes for Simulation of the Localization of Small Electromagnetic Inhomogeneities in a 3D Bounded Domain
     year: '2009'
   bRc87BMAAAAJ:3lUAU8Oskd0C:
-    citations: 35
+    citations: 36
     title: Machine learning for optimal electrode wettability in lithium ion batteries
     year: '2023'
   bRc87BMAAAAJ:4JMBOYKVnBMC:
@@ -46,7 +46,7 @@ papers:
     title: Numerical solution of an inverse initial boundary value problem for the wave equation in the presence of conductivity imperfections of small volume
     year: '2011'
   bRc87BMAAAAJ:8VtEwCQfWZkC:
-    citations: 11
+    citations: 13
     title: "Surrogate Modeling of Lithium\u2010Ion Battery Electrode Manufacturing by Combining Physics\u2010Based Simulation and Deep Learning"
     year: '2025'
   bRc87BMAAAAJ:8k81kl-MbHgC:
@@ -94,11 +94,11 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 822
+    citations: 825
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
-    citations: 34
+    citations: 35
     title: 'A toolbox for digital twins: from model-based to data-driven'
     year: '2022'
   bRc87BMAAAAJ:JH5k92_tO-AC:
@@ -122,7 +122,7 @@ papers:
     title: Statistical Inversion of Stratified Media from Acoustic Pulses Scattered at Two Angles of Incidence
     year: '1993'
   bRc87BMAAAAJ:LkGwnXOMwfcC:
-    citations: 14
+    citations: 15
     title: Uniformly controllable schemes for the wave equation on the unit square
     year: '2009'
   bRc87BMAAAAJ:M05iB0D1s5AC:
@@ -142,7 +142,7 @@ papers:
     title: 'Particle velocity in geoacoustics: A performance study based on ensemble adjoint inversion'
     year: Unknown Year
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 854
+    citations: 857
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
