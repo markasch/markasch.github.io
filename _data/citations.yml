@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-03'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -15,7 +15,7 @@ papers:
     year: '2006'
   bRc87BMAAAAJ:3fE2CSJIrl8C:
     citations: 2
-    title: Using Reduced Meshes for Simulation of the Localization of Small Electromagnetic Inhomogeneities in a 3D Bounded Domain
+    title: Using reduced meshes for simulations of the localization of small electromagnetic inhomogeneities in a 3D bounded domain
     year: '2009'
   bRc87BMAAAAJ:3lUAU8Oskd0C:
     citations: 36
@@ -47,7 +47,7 @@ papers:
     year: '2011'
   bRc87BMAAAAJ:8VtEwCQfWZkC:
     citations: 13
-    title: "Surrogate Modeling of Lithium\u2010Ion Battery Electrode Manufacturing by Combining Physics\u2010Based Simulation and Deep Learning"
+    title: "Surrogate modeling of lithium\u2010ion battery electrode manufacturing by combining physics\u2010based simulation and deep learning"
     year: '2025'
   bRc87BMAAAAJ:8k81kl-MbHgC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: A standardized method of classifying pulsed sounds and its application to pulse rate measurement of blue whale southeast Pacific song units
     year: '2019'
   bRc87BMAAAAJ:9yKSN-GCB0IC:
-    citations: 59
+    citations: 57
     title: The spectrum of the damped wave operator for a bounded domain in R 2
     year: '2003'
   bRc87BMAAAAJ:E7VqQtBCVmcC:
@@ -90,11 +90,11 @@ papers:
     title: Adjoint-based geoacoustic inversion with an uncertain sound speed profile
     year: '2006'
   bRc87BMAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 825
+    citations: 826
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
@@ -102,7 +102,7 @@ papers:
     title: 'A toolbox for digital twins: from model-based to data-driven'
     year: '2022'
   bRc87BMAAAAJ:JH5k92_tO-AC:
-    citations: 27
+    citations: 28
     title: A hybrid modelling approach coupling physics-based simulation and deep learning for battery electrode manufacturing simulations
     year: '2025'
   bRc87BMAAAAJ:J_g5lzvAfSwC:
@@ -137,12 +137,8 @@ papers:
     citations: 0
     title: Automated adjoint modeling for inverse problems in underwater acoustics
     year: '2006'
-  bRc87BMAAAAJ:NtCmTCuxid4C:
-    citations: 0
-    title: 'Particle velocity in geoacoustics: A performance study based on ensemble adjoint inversion'
-    year: Unknown Year
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 857
+    citations: 860
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
@@ -166,7 +162,7 @@ papers:
     title: Analytical and semi-automatic adjoint-based inversion algorithms for parabolic type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:Se3iqnhoufwC:
-    citations: 73
+    citations: 75
     title: "Optimization of the Culture Medium Composition to Improve the Production of Hyoscyamine in Elicited Datura stramonium L. Hairy Roots Using the Response \u2026"
     year: '2010'
   bRc87BMAAAAJ:TFP_iSt0sucC:
@@ -182,7 +178,7 @@ papers:
     title: "Parall\xE9lisation d\u2019un Modele G\xE9oacoustique d\u2019Inversion par l\u2019Adjoint dans un cas multifr\xE9quences"
     year: Unknown Year
   bRc87BMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 64
+    citations: 66
     title: Localization and increased damping in irregular acoustic cavities
     year: '2007'
   bRc87BMAAAAJ:U0iAMwwPxtsC:
@@ -210,7 +206,7 @@ papers:
     title: 3D diarization of a sperm whale click cocktail party by an ultra high sampling rate portable hydrophone array for assessing individual cetacean growth curves
     year: '2020'
   bRc87BMAAAAJ:W7OEmFMy1HYC:
-    citations: 34
+    citations: 36
     title: Transient wave imaging with limited-view data
     year: '2011'
   bRc87BMAAAAJ:WF5omc3nYNoC:
@@ -242,11 +238,11 @@ papers:
     title: 'Cybercosm: New Foundations for a Converged Science Data Ecosystem'
     year: '2021'
   bRc87BMAAAAJ:YPNY0knpFBYC:
-    citations: 28
+    citations: 29
     title: FREQUENCY CONTENT OF RANDOMLY SCATTERED SIGNALS. 1.
     year: '1990'
   bRc87BMAAAAJ:YsMSGLbcyi4C:
-    citations: 21
+    citations: 20
     title: 'Inversion of satellite ocean colour imagery and geoacoustic characterization of seabed properties: Variational data inversion using a semi-automatic adjoint approach'
     year: '2008'
   bRc87BMAAAAJ:ZeXyd9-uunAC:
@@ -262,7 +258,7 @@ papers:
     title: Remote sensing of Tyrrhenian shallow waters using the adjoint of a full-field acoustic propagation model
     year: '2009'
   bRc87BMAAAAJ:_Qo2XoVZTnwC:
-    citations: 3
+    citations: 2
     title: 'Particle velocity in geoacoustics: A performance study based on ensemble adjoint inversion'
     year: '2010'
   bRc87BMAAAAJ:_kc_bZDykSQC:
@@ -274,12 +270,12 @@ papers:
     title: Alessandrini, Giovanni, 207 Ammari, Habib, 368
     year: '2005'
   bRc87BMAAAAJ:aEW5N-EHWIMC:
-    citations: 6
+    citations: 5
     title: High-frequency near-field Physeter macrocephalus monitoring by stereo-autoencoder and 3d model of sonar organ
     year: '2019'
   bRc87BMAAAAJ:aqlVkmm33-oC:
     citations: 0
-    title: Statistical inversion of randomly scattered signals
+    title: StatisticaI Lnversion of Randomly Scattered Signals
     year: '1989'
   bRc87BMAAAAJ:as0KMg8qHbkC:
     citations: 0
@@ -306,9 +302,13 @@ papers:
     title: Penalization method for WAPE adjoint-based inversion of an acoustic field
     year: '2004'
   bRc87BMAAAAJ:g8uWPOAv7ggC:
-    citations: 262
+    citations: 221
     title: 'Big data and extreme-scale computing: Pathways to convergence-toward a shaping strategy for a future software and data ecosystem for scientific inquiry'
     year: '2018'
+  bRc87BMAAAAJ:g_UdREhPGEoC:
+    citations: 0
+    title: "Localisation et attenuation dans les cavit\xB4 es acoustiques irregulieres"
+    year: Unknown Year
   bRc87BMAAAAJ:h168fVGZblEC:
     citations: 0
     title: Numerical solution of an inverse initial boundary value problem forthe wave equation in the presenceof conductivity imperfections ofsmall volume
@@ -345,16 +345,12 @@ papers:
     citations: 0
     title: "Adjoint approach to the physical characterization of a shallow\u2010water environment"
     year: '2006'
-  bRc87BMAAAAJ:q0uBw5dMOAkC:
-    citations: 0
-    title: Modelling flint acoustics for detection of submerged Stone Age sites
-    year: Unknown Year
   bRc87BMAAAAJ:qUcmZB5y_30C:
     citations: 0
     title: "Validation of adjoint\u2010generated environmental gradients for the acoustic monitoring of a shallow water area"
     year: '2008'
   bRc87BMAAAAJ:qjMakFHDy7sC:
-    citations: 16
+    citations: 17
     title: Boundary voltage perturbations caused by small conductivity inhomogeneities nearly touching the boundary
     year: '2005'
   bRc87BMAAAAJ:qxL8FJ1GzNcC:
@@ -373,6 +369,10 @@ papers:
     citations: 1
     title: "A case study of biological pulsed sound: the blue whale\u2019s southeast Pacific song unit, models and properties"
     year: '2019'
+  bRc87BMAAAAJ:rbGdIwl2e6cC:
+    citations: 0
+    title: Wave Propagation in the Biosonar Organ of sperm whales using a Finite Difference Time Domain method
+    year: Unknown Year
   bRc87BMAAAAJ:roLk4NBRz8UC:
     citations: 3
     title: Derivation of the adjoint of a wide angle parabolic equation for acoustic inversion
@@ -382,11 +382,11 @@ papers:
     title: 'An axisymmetric time-domain spectral-element method for full-wave simulations: Application to ocean acoustics'
     year: '2016'
   bRc87BMAAAAJ:u-x6o8ySG0sC:
-    citations: 68
+    citations: 66
     title: Geometrical aspects of exact boundary controllability for the wave equation-anumerical study
     year: '1998'
   bRc87BMAAAAJ:u5HHmVD_uO8C:
-    citations: 241
+    citations: 243
     title: Frequency content of randomly scattered signals
     year: '1991'
   bRc87BMAAAAJ:uUvzmPk0f8oC:
@@ -394,7 +394,7 @@ papers:
     title: An efficient algorithm for the numerical solution of a linear hyperbolic system using vector-parallel
     year: '1991'
   bRc87BMAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: Numerical localization of electromagnetic imperfections from a perturbation formula in three dimensions
     year: '2008'
   bRc87BMAAAAJ:vV6vV6tmYwMC:
@@ -410,7 +410,7 @@ papers:
     title: 'Mono-hydrophone localization of baleen whales: a study of propagation using a spectral element method applied in Northern Chile'
     year: '2019'
   bRc87BMAAAAJ:xyvS_IvSCKsC:
-    citations: 1
+    citations: 11
     title: Business models for sustainable research data repositories
     year: '2017'
   bRc87BMAAAAJ:yTLRzDEmwhEC:
@@ -418,10 +418,10 @@ papers:
     title: "Les math\xE9matiques au ministere de la recherche"
     year: '2014'
   bRc87BMAAAAJ:yeL6HyUMUGUC:
-    citations: 165
+    citations: 168
     title: "The desirability optimization methodology; a tool to predict two antagonist responses in biotechnological systems: case of biomass growth and hyoscyamine content in elicited \u2026"
     year: '2018'
   bRc87BMAAAAJ:zYLM7Y9cAGgC:
-    citations: 40
+    citations: 39
     title: Geoacoustic inversion of broad-band acoustic data in shallow water on a single hydrophone
     year: '2003'
