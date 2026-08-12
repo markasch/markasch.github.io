@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-12'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,11 +94,11 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 826
+    citations: 828
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
-    citations: 35
+    citations: 36
     title: 'A toolbox for digital twins: from model-based to data-driven'
     year: '2022'
   bRc87BMAAAAJ:JH5k92_tO-AC:
@@ -110,7 +110,7 @@ papers:
     title: A comparison of variational and kalman ltering procedures for the assimilation of acoustic tomography data
     year: '2009'
   bRc87BMAAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: Semi-automatic adjoint PE modeling for geoacoustic inversion
     year: '2006'
   bRc87BMAAAAJ:Kqc1aDSOPooC:
@@ -138,7 +138,7 @@ papers:
     title: Automated adjoint modeling for inverse problems in underwater acoustics
     year: '2006'
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 860
+    citations: 862
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
@@ -162,7 +162,7 @@ papers:
     title: Analytical and semi-automatic adjoint-based inversion algorithms for parabolic type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:Se3iqnhoufwC:
-    citations: 75
+    citations: 76
     title: "Optimization of the Culture Medium Composition to Improve the Production of Hyoscyamine in Elicited Datura stramonium L. Hairy Roots Using the Response \u2026"
     year: '2010'
   bRc87BMAAAAJ:TFP_iSt0sucC:
@@ -418,7 +418,7 @@ papers:
     title: "Les math\xE9matiques au ministere de la recherche"
     year: '2014'
   bRc87BMAAAAJ:yeL6HyUMUGUC:
-    citations: 168
+    citations: 170
     title: "The desirability optimization methodology; a tool to predict two antagonist responses in biotechnological systems: case of biomass growth and hyoscyamine content in elicited \u2026"
     year: '2018'
   bRc87BMAAAAJ:zYLM7Y9cAGgC:
