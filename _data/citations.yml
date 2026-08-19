@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,7 +94,7 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 828
+    citations: 830
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
@@ -138,7 +138,7 @@ papers:
     title: Automated adjoint modeling for inverse problems in underwater acoustics
     year: '2006'
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 862
+    citations: 864
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
@@ -302,7 +302,7 @@ papers:
     title: Penalization method for WAPE adjoint-based inversion of an acoustic field
     year: '2004'
   bRc87BMAAAAJ:g8uWPOAv7ggC:
-    citations: 221
+    citations: 223
     title: 'Big data and extreme-scale computing: Pathways to convergence-toward a shaping strategy for a future software and data ecosystem for scientific inquiry'
     year: '2018'
   bRc87BMAAAAJ:g_UdREhPGEoC:
