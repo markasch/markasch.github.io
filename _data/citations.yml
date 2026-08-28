@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,11 +94,11 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 830
+    citations: 832
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
-    citations: 36
+    citations: 37
     title: 'A toolbox for digital twins: from model-based to data-driven'
     year: '2022'
   bRc87BMAAAAJ:JH5k92_tO-AC:
@@ -122,7 +122,7 @@ papers:
     title: Statistical Inversion of Stratified Media from Acoustic Pulses Scattered at Two Angles of Incidence
     year: '1993'
   bRc87BMAAAAJ:LkGwnXOMwfcC:
-    citations: 15
+    citations: 16
     title: Uniformly controllable schemes for the wave equation on the unit square
     year: '2009'
   bRc87BMAAAAJ:M05iB0D1s5AC:
@@ -138,7 +138,7 @@ papers:
     title: Automated adjoint modeling for inverse problems in underwater acoustics
     year: '2006'
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 864
+    citations: 866
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
