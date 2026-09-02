@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   bRc87BMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,7 +94,7 @@ papers:
     title: An analytic multiple frequency adjoint-based inversion algorithm for parabolic-type approximations in ocean acoustics
     year: '2006'
   bRc87BMAAAAJ:In6cVmBjs0IC:
-    citations: 832
+    citations: 836
     title: 'Data assimilation: methods, algorithms, and applications'
     year: '2016'
   bRc87BMAAAAJ:J3LtWjKFLicC:
@@ -138,7 +138,7 @@ papers:
     title: Automated adjoint modeling for inverse problems in underwater acoustics
     year: '2006'
   bRc87BMAAAAJ:PlWzFYVEG4EC:
-    citations: 866
+    citations: 870
     title: 'Data Assimilation: Methods, Algorithms, and Applications'
     year: '2016'
   bRc87BMAAAAJ:QIV2ME_5wuYC:
@@ -294,7 +294,7 @@ papers:
     title: "D\xE9tection num\xE9rique de petites imperfections en 2D et 3D"
     year: Unknown Year
   bRc87BMAAAAJ:e5wmG9Sq2KIC:
-    citations: 0
+    citations: 1
     title: Increased damping in irregular resonators
     year: '2005'
   bRc87BMAAAAJ:eQOLeE2rZwMC:
